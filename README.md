@@ -17,8 +17,8 @@
 <h3 align="left">Follow Me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsalbinshiby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="riamonga7" height="30" width="40" /></a>
-<a href="https://instagram.com/albin_shiby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"" alt="monga_ria" height="30" width="40" /></a> </p>
-<a href="https://gitlab.com/albins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" alt="ria-monga" height="30" width="40" /></a>
+<a href="https://instagram.com/albin_shiby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"" alt="monga_ria" height="30" width="40" /></a> 
+<a href="https://gitlab.com/albins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" alt="ria-monga" height="30" width="40" /></a> </p>
 
 
 
