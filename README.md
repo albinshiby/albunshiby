@@ -3,7 +3,7 @@
 
 ### Hi There, I'm Albin S <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px"> 
 
-# I'm a CyberVerse Explorer, Security Analyst, And a Tech Enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+# I'm a CyberVerse Explorer, Security Analyst, And a Tech Enthusiast! <img src="https://user-images.githubusercontent.com/97731157/149611988-6b1ee263-e194-4b25-ba8d-b213ebf4fd77.gif" width="29px">
 
 <img align="right" src="https://user-images.githubusercontent.com/97731157/149610660-97126214-d97c-4c08-ab7a-e10de2c3fcf3.png" alt="blogging" height="400" />
 
