@@ -10,12 +10,9 @@
 - 👀 I’m interested in Exploring CyberVerse
 - 🌱 I’m currently learning Something Crazy
 - 💞️ I’m looking to collaborate on..
-- 📫 Reach Me Via Personal@AlbinS.slmail.me
-- ⚡ Fun fact: Thinking Abou It
+- 📫 Reach Via personal@albins.slmail.me
+- ⚡ Fun fact: Thinking About It
 <h3 align="left">Connect with me: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px"></h3>
-- 🔭https://itsalbins.github.io
-<!---
-albinshiby/albinshiby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.![blogging]
+- 🔭 https://itsalbins.github.io
 
---->
+
