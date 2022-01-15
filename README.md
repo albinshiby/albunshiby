@@ -9,9 +9,11 @@
 
 - 👀 I’m interested in Exploring CyberVerse
 - 🌱 I’m currently learning Something Crazy
-- 💞️ I’m looking to collaborate on..
-- 📫 Reach Via personal@albins.slmail.me
+- 💞️ I’m looking to collaborate on Project's
+- 🤔 I’m looking for help with Security Work's
+- 💬 Ask me about blogs
 - ⚡ Fun fact: Thinking About It
+- 📫 Reach Via personal@albins.slmail.me
 <h3 align="left">Connect with me: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px"></h3>
 - 🔭 https://itsalbins.github.io
 
