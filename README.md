@@ -5,7 +5,7 @@
 
 # I'm a CyberVerse Explorer, Security Analyst, And a Tech Enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
-<img align="right" src="("https://user-images.githubusercontent.com/97731157/149610660-97126214-d97c-4c08-ab7a-e10de2c3fcf3.png") alt="blogging" height="400" />
+<img align="right" src="https://user-images.githubusercontent.com/97731157/149610660-97126214-d97c-4c08-ab7a-e10de2c3fcf3.png" alt="blogging" height="400" />
 
 - 👀 I’m interested in Exploring CyberVerse
 - 🌱 I’m currently learning Something Crazy
