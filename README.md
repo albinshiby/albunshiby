@@ -5,7 +5,7 @@
 
 # I'm a CyberVerse Explorer, Security Analyst, And a Tech Enthusiast! <img src="https://user-images.githubusercontent.com/97731157/149611988-6b1ee263-e194-4b25-ba8d-b213ebf4fd77.gif" width="29px">
 
-<img align="right" src="https://user-images.githubusercontent.com/97731157/149612808-1dc2bf61-2a4e-430c-8805-a7cdf20d242c.gif" alt="blogging" height="400" />
+<img align="right" src="https://user-images.githubusercontent.com/97731157/149612852-bf6b7f6c-cfad-4db5-8928-2c7aed2d6973.png" alt="blogging" height="400" />
 
 - 👀 I’m Interested In Exploring CyberVerse
 - 🌱 I’m Currently Learning Something Crazy
@@ -22,5 +22,4 @@
 
 
 
-
-![comp]()
+![astroremove](ng)
