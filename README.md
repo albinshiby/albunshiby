@@ -7,14 +7,14 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/97731157/149610660-97126214-d97c-4c08-ab7a-e10de2c3fcf3.png" alt="blogging" height="400" />
 
-- 👀 I’m interested in Exploring CyberVerse
-- 🌱 I’m currently learning Something Crazy
-- 💞️ I’m looking to collaborate on Project's
-- 🤔 I’m looking for help with Security Work's
-- 💬 Ask me about blogs
-- ⚡ Fun fact: Thinking About It
-- 📫 Reach Via personal@albins.slmail.me
-<h3 align="left">Connect with me: <img align="center" src="https://user-images.githubusercontent.com/97731157/149611562-ebb32809-8df4-4bf8-90b7-ec102c7cd9dd.gif" width="79px"></h3>
+- 👀 I’m Interested In Exploring CyberVerse
+- 🌱 I’m Currently Learning Something Crazy
+- 💞️ I’m Looking To Collaborate On Project's
+- 🤔 I’m Looking For Help With Security Work's
+- 💬 Ask Me About Blogs
+- ⚡ Fun Fact: Thinking About It
+- 📫 Mail Via personal@albins.slmail.me
+<h3 align="left">Follow Me: <img align="center" src="https://user-images.githubusercontent.com/97731157/149611988-6b1ee263-e194-4b25-ba8d-b213ebf4fd77.gif" width="79px"></h3>
 - 🔭 https://itsalbins.github.io
 
 
