@@ -10,4 +10,4 @@
 - 📫 Mail Via personal@albins.slmail.me 
 
 
-![Developer]()
+
