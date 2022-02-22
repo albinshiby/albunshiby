@@ -4,7 +4,7 @@
 
 - 🌱 I’m Currently Learning Something Crazy
 - 💞️ I’m Looking To Collaborate On Project's
-- 🤔 I’m Looking For Help With Security Work's
+- 🤔 Know About Me From https://albinshiby.github.io
 - 📫 Mail Via personal@albins.slmail.me 
 
 
